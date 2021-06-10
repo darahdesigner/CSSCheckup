@@ -1,0 +1,23 @@
+body{
+    background-image: url('../CSSCheckup/Assets/prism.png');
+    background-color: darkslategray;
+    color: rgb(25, 143, 74);
+}
+.wrapper{
+    margin: 25px;
+}
+.opacity{
+    background-color: #e0d4d4ad;
+    width: 20%;
+    height: 10%;
+    padding: 5px;
+    border-style: double;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: teal;
+}
+#NOPE{
+    font-style: italic;
+    font-size: 60px;
+    color: lightpink
+}
